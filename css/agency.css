@@ -604,7 +604,8 @@ section#contact {
 }
 
 section#contact .section-heading {
-  color: #fff;
+
+  color: black;
 }
 
 section#contact .form-group {
